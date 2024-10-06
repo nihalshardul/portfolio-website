@@ -9,4 +9,12 @@ Demo: https://nihalshardul.com/
 
 If you want to host your website follow https://nshardul.hashnode.dev/static-website-hosting 
 
+
+-----------------------------------------------------------------------------------------------------
+
+You can deploy this website using Docker as well.
+
+Please follow given link and follow the step to deploy this website using Docker. 
+Link -> https://nshardul.hashnode.dev/deploying-a-static-website-using-docker
+
 Thanks !!!
